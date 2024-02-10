@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Topics/Collectors/ASCII Art/out/
+/Topics/Collectors/ASCII Art/out/production/classes/
+/Topics/Standard functional interfaces/Accounts/out/
+/Topics/Standard functional interfaces/Accounts/out/production/classes/
